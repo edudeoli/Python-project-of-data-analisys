@@ -1,4 +1,4 @@
-# Python-project-of-data-analisys
+# Python-project-of-data-analysis
 
 Projeto de aprendizagem para aumentar o faturamento e o lucro de uma empresa x.
 
