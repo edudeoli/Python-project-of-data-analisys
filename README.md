@@ -5,7 +5,7 @@ Neste projeto de aprendizagem, abordaremos o desafio de aumentar o faturamento e
 O objetivo principal deste projeto é utilizar técnicas de análise de dados em Python para identificar o perfil do cliente ideal para os produtos da empresa X. A análise será baseada na classificação dos clientes e na exploração de suas características demográficas e de comportamento de compra.
 
 ### Passos do Projeto
-  - **Coleta e Análise dos Dados**: Carregaremos os dados históricos de compras dos clientes e faremos uma análise inicial para entender a estrutura e os atributos dos dados.
+**Coleta e Análise dos Dados**: Carregaremos os dados históricos de compras dos clientes e faremos uma análise inicial para entender a estrutura e os atributos dos dados.
 
 **Pré-processamento dos Dados**: Iremos limpar e transformar os dados conforme necessário para realizar a análise.
 
